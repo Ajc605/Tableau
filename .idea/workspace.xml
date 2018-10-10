@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a1923e5-d21d-4c3e-85be-ae4d5175c108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/.idea/reveal.js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/_gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/_travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/print/paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/print/pdf.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/reveal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/reveal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/beige.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/blood.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/league.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/moon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/serif.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/sky.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/solarized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/beige.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/black.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/blood.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/league.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/moon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/night.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/serif.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/simple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/sky.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/solarized.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/source/white.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/template/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/template/settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/template/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/css/theme/white.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/js/reveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/css/zenburn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/league-gothic/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/league-gothic/league-gothic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/league-gothic/league-gothic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/league-gothic/league-gothic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/league-gothic/league-gothic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/js/classList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/js/head.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/lib/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/highlight/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/markdown/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/markdown/example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/markdown/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/markdown/marked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/math/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/multiplex/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/multiplex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/multiplex/master.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/multiplex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/notes-server/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/notes-server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/notes-server/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/notes/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/notes/notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/print-pdf/print-pdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/plugin/zoom-js/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/assets/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/assets/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/barebones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/embedded-media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/math.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/slide-backgrounds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/examples/slide-transitions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/qunit-2.5.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/qunit-2.5.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/simple.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-element-attributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-element-attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-external.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-external.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-slide-attributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown-slide-attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-pdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test-pdf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/reveal.js/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freetds.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_ini_xdebug.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vhost.conf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2057530757">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="conf" value="2" />
+          <entry key="ini" value="1" />
+          <entry key="php" value="1" />
+          <entry key="sh" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="Dockerfile" value="1" />
+          <entry key="Ini" value="1" />
+          <entry key="PHP" value="1" />
+          <entry key="SmartyConfig" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="8" />
+          <entry key="ini" value="8" />
+          <entry key="php" value="39" />
+          <entry key="sh" value="3" />
+          <entry key="yml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="3" />
+          <entry key="Dockerfile" value="8" />
+          <entry key="Ini" value="8" />
+          <entry key="PHP" value="39" />
+          <entry key="YAML" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+      <find>controls-arr</find>
+      <find>vizContainer</find>
+      <find>slides {</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/entrypoint.sh" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/php_ini_xdebug.ini" />
+        <option value="$PROJECT_DIR$/vhost.conf" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/tableau.html" />
+        <option value="$PROJECT_DIR$/app/reveal.js/index.html" />
+        <option value="$PROJECT_DIR$/app/index.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/reveal.js/package.json" />
+      <path value="$PROJECT_DIR$/app/reveal.js/plugin/multiplex/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tableau" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tableau" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Git/bloodstock-sales" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aiden.cooper\Documents\TestApp\app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Docker" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="startBrowserSettings">
+            <browser url="http://127.0.0.1" />
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1923e5-d21d-4c3e-85be-ae4d5175c108" name="Default Changelist" comment="" />
+      <created>1539005321886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539005321886</updated>
+      <workItem from="1539005323246" duration="242000" />
+      <workItem from="1539178844153" duration="238000" />
+      <workItem from="1539179115522" duration="7104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7812000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.34347048" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49959514" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50040483" side_tool="true" weight="0.3291592" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.html" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php_ini_xdebug.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vhost.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/freetds.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/index.php" />
+    <entry file="file://$PROJECT_DIR$/app/tableau.html" />
+    <entry file="file://$PROJECT_DIR$/app/reveal.js/js/reveal.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reveal.js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="114" column="7" lean-forward="true" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reveal.js/css/theme/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reveal.js/css/theme/moon.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
