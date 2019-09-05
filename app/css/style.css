@@ -14,6 +14,8 @@ body {
     background-image: linear-gradient(#b5651e, #B0B0B0); /* Standard syntax (must be last) */
 }
 
+
+
 .header ul {
     list-style-type: none;
     margin: 0;
