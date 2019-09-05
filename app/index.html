@@ -1,91 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        * {box-sizing: border-box;}
-
-        body {
-            height: 100%;
-            margin: 0;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #383838; /* For browsers that do not support gradients */
-            background-image: linear-gradient(#303030, #B0B0B0); /* Standard syntax (must be last) */
-        }
-
-        .header ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #333;
-        }
-
-        .header li {
-            float: left;
-        }
-
-        .header li a {
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-
-        .header li a:hover:not(.logo) {
-            background-color: #111;
-
-        }
-
-        .header li a:not(.logo) {
-            padding: 12px;
-            margin-top: 20px;
-        }
-
-        .active {
-            background-color: #4CAF50;
-        }
-
-        .header a.logo {
-            font-size: 25px;
-        }
-
-        .header a.logo img {
-            width: 70px;
-        }
-
-
-        .footer {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            background-color: #686868;
-            color: white;
-            text-align: center;
-        }
-
-        .footer ul{
-            list-style-type:  none;
-        }
-
-        .footer li {
-
-        }
-
-        .footer img {
-            float: right;
-            width: 70px;
-            padding: 12px;
-            z-index: -1;
-        }
-    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
+<div class="content">
 <div class="header">
     <ul>
         <li>
@@ -114,29 +37,31 @@
 
 
 </div>
+<!--<div class="content">-->
+    <div class="body">
+        <h1>Responsive Header</h1>
+        <p>Resize the browser window to see the effect.</p>
+        <p>Some content..</p>
+        <p>hello world</p>
 
-<div style="padding-left:20px">
-    <h1>Responsive Header</h1>
-    <p>Resize the browser window to see the effect.</p>
-    <p>Some content..</p>
+    </div>
 </div>
 
-
-<div class="footer">
-    <ul>
-        <li>
-            <ul>
-                <li>Contact us</li>
-                <li>Phone: 83908903</li>
-                <li>email: email@example.co.uk</li>
-            </ul>
-        </li>
-        <li>
-            <img src="images/FBIcon.png" >
-        </li>
-    </ul>
-</div>
-
+<footer class="social-footer">
+    <div class="social-footer-left">
+        <ul>
+            <li>Contact us</li>
+            <li>Phone: 83908903</li>
+            <li>email: email@example.co.uk</li>
+        </ul>
+    </div>
+    <div class="social-footer-icons">
+        <ul class="menu simple">
+            <li><a href="https://www.facebook.com/BlackburnFilms/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/blackburnfilm/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/?lang=en" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        </ul>
+    </div>
+</footer>
 </body>
 </html>
-
